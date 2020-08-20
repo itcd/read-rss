@@ -8,11 +8,16 @@ Circle Round podcast RSS
 
 https://rss.wbur.org/CircleRound/podcast
 
-podcast.rss:    The downloaded RSS file.
 
-urls.txt:		URLs of the story audio files.
+podcast.rss:
+The downloaded RSS file.
 
-webpages.txt:	URLs of the story webpages, which contain story scripts.
+urls.txt:
+URLs of the story audio files.
+
+webpages.txt:
+URLs of the story webpages, which contain story scripts.
+
 
 Circle Round on WBUR and NPR websites
 
